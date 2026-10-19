@@ -6,7 +6,7 @@ Interactive dashboard creation - using Tableau
 - The dataset has data on when the website was accessed, IP address of the source, Country, language in which website was accessed, amount of sales made by that IP address.
 - This dataset supports analysis aimed at understanding user behavior, identifying popular products and regions, evaluating site performance, and optimizing marketing and operational strategies.
 
-> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Tableau-Project/blob/main/E_Commerce_Website_Logs.csv"> Click Now </a>
+> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Tableau_Project_File/blob/main/E-commerce%20Website%20Logs.csv"> Click Now </a>
 
 - Date of accessing the website
 - Country, Language & Platform in which it was accessed
@@ -15,7 +15,7 @@ Interactive dashboard creation - using Tableau
 - Records ( 1,72,840 )
 ## **Project Insights & Dataset Overview**
 
-![E-com (Dashboard)](https://github.com/Pavankumar-Bishnu/Tableau_Project_File_1/blob/main/DSBD.png)   
+![E-com (Dashboard)](https://github.com/Pavankumar-Bishnu/Tableau_Project_File/blob/main/EC_DSBD.png)   
 
 
 - By membership type, Premium members produce the most sales, followed by Normal. Not Logged In members have zero sales in this sample.
@@ -49,7 +49,7 @@ Interactive dashboard creation - using Tableau
   - October 25, 2020 (743K thousand)
   - October 13, 2020 (700K thousand)
   
-> **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Tableau_Project_File_1/blob/main/E-com%20(Dashboard).twb"> View </a>
+> **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Tableau_Project_File/blob/main/E-com%20(DBRD).twb"> View </a>
 
 ## **Final Conclusion:**
 - E-commerce website logs dataset is that the platform is experiencing strong user engagement, with clear trends in geographic concentration, product interest, and activity timing.
